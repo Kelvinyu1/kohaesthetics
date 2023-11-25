@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kohaesthetics/static/css/main.63809193.css",
+    "main.css": "/kohaesthetics/static/css/main.c1ab3355.css",
     "main.js": "/kohaesthetics/static/js/main.9d243564.js",
     "static/js/787.fb1c830f.chunk.js": "/kohaesthetics/static/js/787.fb1c830f.chunk.js",
     "static/media/Dr.-K-Koh-Aesthetics_black_high-res.png": "/kohaesthetics/static/media/Dr.-K-Koh-Aesthetics_black_high-res.eabd0aa7450069b04980.png",
     "index.html": "/kohaesthetics/index.html",
-    "main.63809193.css.map": "/kohaesthetics/static/css/main.63809193.css.map",
+    "main.c1ab3355.css.map": "/kohaesthetics/static/css/main.c1ab3355.css.map",
     "main.9d243564.js.map": "/kohaesthetics/static/js/main.9d243564.js.map",
     "787.fb1c830f.chunk.js.map": "/kohaesthetics/static/js/787.fb1c830f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63809193.css",
+    "static/css/main.c1ab3355.css",
     "static/js/main.9d243564.js"
   ]
 }
