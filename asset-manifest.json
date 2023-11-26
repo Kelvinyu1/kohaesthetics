@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "//kohaesthetics.com/static/css/main.c1ab3355.css",
-    "main.js": "//kohaesthetics.com/static/js/main.2b31a843.js",
+    "main.css": "//kohaesthetics.com/static/css/main.a3af844f.css",
+    "main.js": "//kohaesthetics.com/static/js/main.63cda67b.js",
     "static/js/787.fb1c830f.chunk.js": "//kohaesthetics.com/static/js/787.fb1c830f.chunk.js",
-    "static/media/Dr.-K-Koh-Aesthetics_black_high-res.png": "//kohaesthetics.com/static/media/Dr.-K-Koh-Aesthetics_black_high-res.eabd0aa7450069b04980.png",
+    "static/media/NeuroToxin.jpg": "//kohaesthetics.com/static/media/NeuroToxin.754d6fbb86e8a58cf321.jpg",
+    "static/media/DermalFiller.jpg": "//kohaesthetics.com/static/media/DermalFiller.c3fde692f8d482fe10d9.jpg",
     "index.html": "//kohaesthetics.com/index.html",
-    "main.c1ab3355.css.map": "//kohaesthetics.com/static/css/main.c1ab3355.css.map",
-    "main.2b31a843.js.map": "//kohaesthetics.com/static/js/main.2b31a843.js.map",
+    "main.a3af844f.css.map": "//kohaesthetics.com/static/css/main.a3af844f.css.map",
+    "main.63cda67b.js.map": "//kohaesthetics.com/static/js/main.63cda67b.js.map",
     "787.fb1c830f.chunk.js.map": "//kohaesthetics.com/static/js/787.fb1c830f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1ab3355.css",
-    "static/js/main.2b31a843.js"
+    "static/css/main.a3af844f.css",
+    "static/js/main.63cda67b.js"
   ]
 }
